@@ -45,5 +45,5 @@ Essay
     ¦   Sldes.odp                  # LibreOffice slides
     ¦   YH-MA4M4-essay.pdf         # Essay PDF
     ¦   YH-MA4M4-essay.zip         # Essay LaTex
-    ¦   YH-MA4M4-presentation.MP4  # Presentation video
+    ¦   YH-MA4M4-presentation.mp4  # Presentation video
 ```
