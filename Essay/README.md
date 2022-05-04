@@ -42,7 +42,8 @@ Essay
 ¦   ¦   ...
 ¦
 +---Submisson                      # Submitted files
-    ¦   Sldes.odp                  # LibreOffice slides
+    ¦   Slides.odp                 # LibreOffice slides
+    ¦   Slides.pdf                 # Slides PDF
     ¦   YH-MA4M4-essay.pdf         # Essay PDF
     ¦   YH-MA4M4-essay.zip         # Essay LaTex
     ¦   YH-MA4M4-presentation.mp4  # Presentation video
